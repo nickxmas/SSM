@@ -5,6 +5,7 @@ import org.apache.cxf.jaxws.JaxWsServerFactoryBean;
 
 public class Server {
 
+    //测试提交
 	public static void main(String[] args) {
 		System.out.println("web service 启动中。。。");
 		HelloWorld implementor= new HelloWorldImpl();
